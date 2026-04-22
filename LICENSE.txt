@@ -1,0 +1,5 @@
+Copyright (c) 2026 Cogna8. All rights reserved.
+
+This package is a namespace placeholder published by Cogna8 on the public npm registry. It contains no product functionality and is not licensed for use, redistribution, or modification.
+
+For licensed Cogna8 SDKs, plugins, and integrations, see packages published under the @cogna8 scope at https://www.npmjs.com/org/cogna8 or visit https://cogna8.ai.

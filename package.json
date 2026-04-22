@@ -1,0 +1,16 @@
+{
+  "name": "cogna8",
+  "version": "0.0.1",
+  "description": "Placeholder for the Cogna8 authority runtime. Cogna8 SDKs and plugins are published under the @cogna8 scope. See cogna8.ai.",
+  "main": "index.js",
+  "keywords": ["cogna8", "authority-runtime", "ai-agents", "action-authorization"],
+  "homepage": "https://cogna8.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cogna8/cogna8-npm-placeholder"
+  },
+  "bugs": { "url": "https://cogna8.ai" },
+  "author": "Cogna8 <admin@cogna8.ai>",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "files": ["index.js", "README.md", "LICENSE.txt"]
+}
